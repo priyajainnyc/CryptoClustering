@@ -22,7 +22,7 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
   
   ![scaled_data](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/scaled_data.png)
   
-* The best value for k was found using the original scaled DataFrame
+* The best value for k was found using the original scaled DataFrame.
   
   ![elbow_plot](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/elbow_plot.png)
   
@@ -34,7 +34,7 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
   
   <img width="295" alt="image" src="https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/pca_data.png">
   
-* The best value for k was found using the PCA data
+* The best value for k was found using the PCA data.
   
   ![elbow_pca_plot](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/elbow_pca_plot.png)
   
