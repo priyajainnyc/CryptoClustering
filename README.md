@@ -18,19 +18,19 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 
 ## Analysis
 **In this challenge, the following was accomplished:**
-* Data was given as a csv file then normalized and coverted to a DataFrame
+* Crypto market data was given as a csv file, then normalized and coverted to a DataFrame
   
   ![scaled_data](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/scaled_data.png)
   
-* The best value for k was found using the original scaled dataFrame
+* The best value for k was found using the original scaled DataFrame
   
   ![elbow_plot](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/elbow_plot.png)
   
-* The cryptocurrencies were clustered  with K-means using the original scaled data
+* The cryptocurrencies were clustered with K-means using the original scaled data
   
   ![market_scaled_plot](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/market_scaled_plot.png)
   
-* The clusters were optimized with Principal Component Analysis
+* The clusters were optimized with Principal Component Analysis (PCA)
   
     ![pca_data](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/pca_data.png)
   
