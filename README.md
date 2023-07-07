@@ -32,7 +32,7 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
   
 * The clusters were optimized with Principal Component Analysis (PCA)
   
-  <img width="695" alt="image" src="https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/pca_data.png">
+  <img width="495" alt="image" src="https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/pca_data.png">
   
 * The best value for k was found using the PCA data
   
