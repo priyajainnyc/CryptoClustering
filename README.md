@@ -16,22 +16,31 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 - Scikit-learn
 - HoloViews Plots
 
-## Instructions
+## Analysis
 **In this challenge, the following was accomplished:**
-* Data was given as a csv file then normalized and coverted to a dataframe
+* Data was given as a csv file then normalized and coverted to a DataFrame
+  
   ![scaled_data](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/scaled_data.png)
+  
 * The best value for k was found using the original scaled dataFrame
+  
   ![elbow_plot](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/elbow_plot.png)
+  
 * The cryptocurrencies were clustered  with K-means using the original scaled data
+  
   ![market_scaled_plot](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/market_scaled_plot.png)
+  
 * The clusters were optimized with Principal Component Analysis
   
      ![pca_data](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/pca_data.png)
   
 * The best value for k was found using the PCA data
+  
   ![elbow_pca_plot](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/elbow_pca_plot.png)
+  
 * The Cryptocurrencies were clustered with K-means using the PCA data
+  
   ![market_pca_plot](https://github.com/priyajainnyc/CryptoClustering/blob/main/Resources/market_pca_plot.png)
-
+  
 ## Conclusions
 After visually analyzing the cluster analysis results, we determined the impact of using fewer features to cluster the data using K-Means. We found that with fewer features used to cluster data using K-means, it seemed to reduce the amount of noise in the clusters and made the grouping of the data more clear and interpretable.
